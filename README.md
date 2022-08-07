@@ -13,3 +13,5 @@ npm i @bcostaaa01/tiny
 ```
 
 ### 🚧 Currently in development...
+
+<img src="https://media0.giphy.com/media/V0BSGX5eZ43du/giphy.gif">
