@@ -3,6 +3,7 @@
 This is a very tiny package.
 
 <img src="https://img.shields.io/npm/v/@bcostaaa01/tiny">
+<img src="https://img.shields.io/bundlephobia/min/@bcostaaa01/tiny">
 
 ## 🍼 Running the tiniest package on GitHub
 
